@@ -22,7 +22,7 @@ const std::string OUTPUT_FILE_RANGE_PREFIX = "mnemonics_range_";
 const std::string OUTPUT_FILE_FULL_PREFIX = "all_mnemonics_";
 const std::string PROGRESS_FILE_RANGE = "generation_progress_range.bin";
 const std::string PROGRESS_FILE_FULL = "generation_progress_full.bin";
-const size_t MNEMONIC_WORD_COUNT = 24;
+const size_t MNEMONIC_WORD_COUNT = 12;
 const uint64_t REPORT_INTERVAL = 10000000ULL;
 
 // Available wordlists
